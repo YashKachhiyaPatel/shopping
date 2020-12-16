@@ -30,7 +30,7 @@ a{
  	position: relative;
  }
  .set_quantity::after {
- 	content: "(note, 1 piece)";
+ 	content: "";
  	width: auto;
  	height: auto;
  	text-align: center;
